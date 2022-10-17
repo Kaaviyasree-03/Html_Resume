@@ -1,0 +1,148 @@
+<DOCTYPE html>
+<html lang=”en”>
+<head>
+<meta charset =”UTF-8”>
+<meta name="viewport" content="width-device-width">
+<link rel="stylesheets" href="style.css" >
+<title></title>
+</head>
+<body>
+<div class="resume">
+<div class="column">
+<div class="row">
+<body>
+<section class="profile">
+<h1 style="color:blue;">KAAVIYASREE.SK</h1>
+<br>
+<img src="Image/Image.png" alt="image">
+</section><br>
+<section class="objectives">
+<h2 style="color:brown;">OBJECTIVE</h2>
+<li>To take a challenging role as a Data Scientist in a company where my skills and
+knowledge can be use and enhanced to
+the fullest.I will implement my knowledge,ideas and skills with my creativity
+and to grow along with organization.</li>
+</section>
+<br>
+<section class="contact">
+<h2 style="color:brown;">CONTACT</h2>
+</li>
+<li><a href="tel:8870764374">(+91)8870764374</a></li>
+</ul>
+<h2 style="color:brown;">ADDRESS</h2>
+<li>1/100-B 1/11,Vishwanathan nagar vennampatty road Dharmapuri.</li>
+<h2 style="color:brown;">EMAIL ID</h2>
+</li>
+<li><a href="mail2kaaviyasree03@gmail.com">mail2kaaviyasree03@gmail.com</a></li>
+</section>
+<section class="Education">
+<h2 style="color:brown;"EDUCATION</h2>
+<h2 style="color:DodgerBlue;">2020-2024</h2>
+<div class="content">
+<h3>Karpagam College of Engineering</h3>
+<p><em>Artificial Intelligence and Data Science</em></p>
+<p>CGPA: 9.0</p>
+</div>
+</li>
+
+<p style="color:DodgerBlue;">2019-2020</p>
+<div class="content">
+<h3>Sri Vijay Vidyalaya Matric Hr.Sec school</h3>
+<p><em>Higher Secondary:</em></p>
+<p>Percentage:56.4%</p>
+</div>
+</li>
+<p style="color:DodgerBlue;">2017-2018</p>
+<div class="content">
+<h3>Sri Vijay Vidyalaya Matric Hr.Sec school</h3>
+<p><em>Secondary:</em></p>
+<p>Percentage:74.6%</p>
+</div>
+</li>
+</ul>
+</section>
+<br>
+</div>
+<div class="column">
+<section class="WORKSHOP">
+<h2 style="color:brown;">WORKSHOP</h2>
+<li>
+Data Visualization - Tableau Software
+</li>
+<li>
+Fundamentals of Deep Learning - NVIDIA
+</li>
+</ul>
+<br>
+<section class="INTERNSHIP">
+<h2 style="color:brown;">Internship</h2>
+<ul>
+<li>
+<p>Microsoft PowerBI - WE&DATA</P>
+</li>
+<section class="PROJECTS">
+<h2 style="color:brown;">Projects</h2>
+<p style="color:Red;">Nov-2021</p>
+<div class="content">
+<li>phone book</li>
+</div>
+</li>
+<p style="color:red;">Dec-2021</p>
+<div class="content">
+<li>Student Management System</li>
+</div>
+
+</li>
+<p style="color:red;">Jun-2022</p>
+<div class="content">
+<li>Deep Survilence With Deep Learning</li>
+</div>
+</li>
+</ul>
+<br>
+<section>
+</section class="CERTIFICATION">
+<h2 style="color:brown;">CERTIFICATION</h2>
+<ul>
+<li>
+Fundamentals Of Deep Learning -NVIDIA
+</li>
+<li>
+Java Fundamentals - INFOSYS
+</li>
+<li>
+Java SE8 - INFOSYS
+</li>
+<li>
+Programming for everybody[Getting
+started with Python] - COURSERA
+</li>
+<li>
+Introducting RPA,Getting started with RPA - AUTODESK
+</li>
+<li>
+JAVA LANGUAGE FEATURES - INFOSYS
+</li>
+<ul>
+</section>
+<br>
+<section class="SKILLS">
+<h3 style="color:brown;">SKILLS</h3>
+<ul>
+<li>
+C-Programming
+</li>
+<li>
+MySQL
+</li>
+<li>
+Java
+</li>
+
+<li>
+Machine learning using python
+</li>
+</ul>
+</body>
+</section>
+</div>
